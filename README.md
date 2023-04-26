@@ -4,10 +4,13 @@ All rights reserved.
 Creative Commons Attribution 4.0 License (International): https://creativecommons.org/licenses/by/4.0/legalcode
 -->
 
-# Visual Studio Live Share Docs & Feedback
+<h1 align = center>
 
+**Visual Studio Live Share Docs & Feedback**
+
+</h1>
 <table style="width: 100%; border-style: none;"><tr>
-<td style="width: 140px; text-align: center;"><a href="https://aka.ms/vsls"><img width="128px" src="docs/media/vsls-icon.svg" alt="Visual Studio Live Share logo"/></a></td>
+<td style="width: 140px; text-align: center;"><a href="https://aka.ms/vsls"><img width="128px" src="https://ms-vsliveshare.gallerycdn.vsassets.io/extensions/ms-vsliveshare/vsliveshare/1.0.5862/1681838903447/Microsoft.VisualStudio.Services.Icons.Default" alt="Visual Studio Live Share logo"/></a></td>
 <td>
 <strong>Visual Studio Live Share</strong><br />
 <i>Enabling developers to achieve greater confidence at speed by streamlining collaboration in real-time during development.<br />
@@ -19,16 +22,37 @@ Many Visual Studio Live Features are available across a number of languages and 
 
 >**Tip:** Did you know you can *join your own collaboration session*? This allows you to try Live Share on your own or to spin up an instance of VS or VS Code and connect to it remotely! You can even use the same identity on both instances. Check it out!
 
+
+---
+
+## Table Of Contents
+- [Table Of Contents](#table-of-contents)
+- [Quickstarts](#quickstarts)
+- [How-tos](#how-tos)
+- [Reference](#reference)
+- [Resources](#resources)
+- [Community-created content](#community-created-content)
+- [Download and install Visual Studio Live Share](#download-and-install-visual-studio-live-share)
+- [Contributing \& Feedback](#contributing--feedback)
+- [License](#license)
+
+
+---
+
 ## Quickstarts
 
 - [Share your first project](https://aka.ms/vsls-docs/share)
 - [Join your first collaboration session](https://aka.ms/vsls-docs/join)
 
+
+---
 ## How-tos
 
 - [Collaborate using Visual Studio Code](https://aka.ms/vsls-docs/vscode)
 - [Collaborate using Visual Studio](https://aka.ms/vsls-docs/vs)
 
+
+---
 ## Reference
 
 - [Connectivity requirements](https://aka.ms/vsls-docs/connection-mode)
@@ -39,6 +63,8 @@ Many Visual Studio Live Features are available across a number of languages and 
 - [Common Use Cases](https://aka.ms/vsls-usecases)
 - [Troubleshooting](https://aka.ms/vsls-troubleshooting)
 
+
+---
 ## Resources
 
 - [Provide feedback](https://aka.ms/vsls-support)
@@ -46,6 +72,7 @@ Many Visual Studio Live Features are available across a number of languages and 
 - [VS Live Share Extension API](https://www.npmjs.com/package/vsls)
 - [VS Live Share Extension Samples](https://github.com/vsls-contrib)
 
+---
 ## Community-created content
 
 - [Remote pair programming with VS Live Share](https://m.youtube.com/watch?v=vq5FzSPmu-I&feature=youtu.be)
@@ -53,11 +80,13 @@ Many Visual Studio Live Features are available across a number of languages and 
 - [Visual Studio Code: VS Live Share from Across the World](https://youtu.be/D7w0uGmQEc8)
 - [Visual Studio Live Share - Two Developers Coding at Once](https://youtu.be/cg6pRv0D8pw)
 
+---
+
 ## Download and install Visual Studio Live Share
 
 <table style="width: 100%; border:none;">
 <tr>
-    <td width="128px" style="width: 128px; text-align: center; border:none;"><img src="docs/media/vs-code.svg" width="128px" alt="Visual Studio Code logo"/></td>
+    <td width="128px" style="width: 128px; text-align: center; border:none;"><img src="https://sparkcdneus2.azureedge.net/sparkimageassets/XP9KHM4BK9FZ7Q-63e59db4-cf83-46b7-9365-0c37221b94de" width="128px" alt="Visual Studio Code logo"/></td>
     <td style="border:none;">
         <strong>Visual Studio Code (1.22.0+)</strong><br />
         1. Install <a href="https://code.visualstudio.com/">Visual Studio Code</a> for Windows (7, 8.1, or 10), macOS <b>(Sierra+)</b>, or 64-bit Linux <b>(<a href="https://aka.ms/vsls-docs/vscode/install">details</a>)</b><br />
@@ -68,7 +97,7 @@ Many Visual Studio Live Features are available across a number of languages and 
     </td>
 </tr>
 <tr style="border:none;">
-    <td width="128px" style="width: 128px; text-align: center; border:none;"><img src="docs/media/vs-ide-2019.svg" width="128px" alt="Visual Studio logo"/></td>
+    <td width="128px" style="width: 128px; text-align: center; border:none;"><img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg"/></td>
     <td style="border:none;">
         <strong>Visual Studio 2017 15.6 or higher</strong><br />
         1. Install the latest version of <a href="https://visualstudio.microsoft.com/vs/">VS 2017</a> (15.6+) on Windows (7, 8.1, or 10).<br/>
@@ -79,7 +108,9 @@ Many Visual Studio Live Features are available across a number of languages and 
 </tr>
 </table>
 
-By downloading and using Visual Studio Live Share, you agree to the [license terms](https://aka.ms/vsls-license) and [privacy statement](https://www.microsoft.com/en-us/privacystatement/EnterpriseDev/default.aspx). See [troubleshooting](https://aka.ms/vsls-troubleshooting) if you run into problems.
+*By downloading and using Visual Studio Live Share, you agree to the [license terms](https://aka.ms/vsls-license) and [privacy statement](https://www.microsoft.com/en-us/privacystatement/EnterpriseDev/default.aspx). See [troubleshooting](https://aka.ms/vsls-troubleshooting) if you run into problems.*
+
+---
 
 ## Contributing & Feedback
 
@@ -91,6 +122,9 @@ Have a question or feedback? There are many ways to contribute.
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+
+---
 
 ## License
 
